@@ -4,7 +4,7 @@ The goal of this project is to create a model to predict(24h ahead) the electric
 
 The original dataset is preprocessed and consists of the electrical consumption of a household in England on a particular date and time (every 30 minutes).
 
-The chosen ##input parameter## for the neural network are: 
+The chosen **input parameter** for the neural network are: 
 - **hour**
 - **minute**
 - **day of the week**
